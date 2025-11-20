@@ -1,2 +1,25 @@
 
+.color-box{
+	display:flex;
+	justify-content:space-between
+	
+}
+.box{
+	width:80px;
+	position:relative;
+}
+.num{
+	position:absolute;
+	top:10px;
+	left:10px;
+}
+.green{
+	background-color:green;
+}
+.red{
+	background-color:red;
+}
+.blue{
+	background-color:blue;
+}
 /* Your CSS Code here. */
