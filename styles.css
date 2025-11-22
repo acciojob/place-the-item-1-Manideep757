@@ -1,4 +1,10 @@
-
+body{
+	font-family:"Times New Roman", serif;
+}
+.box{
+	font-size:36px;
+	
+}
 .color-box{
 	display:flex;
 	justify-content:space-between
@@ -6,6 +12,7 @@
 }
 .box{
 	width:80px;
+	height:80px;
 	position:relative;
 }
 .num{
